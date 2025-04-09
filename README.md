@@ -165,5 +165,5 @@ Estos resultados indican una altísima capacidad predictiva del modelo final.
 - `jobs_in_data.csv`: dataset completo
 - `analisis_descriptivo.py`: script de visualización de datos
 - `analisis_predictivo.py`: script de entrenamiento del modelo Bagging + DecisionTree
-- `weka_resultados/`: capturas y archivos `.arff` utilizados en Weka
+- `weka_modelos/`: capturas y archivos `.arff` utilizados en Weka
 
